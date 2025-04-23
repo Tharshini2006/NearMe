@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 23.04.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -143,11 +143,11 @@ college.html
 ## OUTPUT
 ![alt text](tharsh/myapp/static/Map.jpg)
 
-![alt text](tharsh/myapp/static/mahal.jpg)
+![1](https://github.com/user-attachments/assets/8d3649c8-3a9f-4c62-ae82-0773a13f3aa0)
 
-![alt text](tharsh/myapp/static/college.jpg)
+![2](https://github.com/user-attachments/assets/8ce8ea58-8805-4e6e-8c49-2114e95f71e7)
 
-![alt text](tharsh/myapp/static/temple.jpg)
+![3](https://github.com/user-attachments/assets/e2c88003-34da-40f6-8107-ec789f132613)
 
 
 
